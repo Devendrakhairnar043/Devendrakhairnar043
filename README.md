@@ -1,7 +1,7 @@
 # Hi there! I'm Devendra Khairnar  
 
 # About Me  
-I am a Data Analyst with expertise in SQL, Python, R, and Power BI**. I enjoy uncovering insights from data and building visualizations that drive decision-making.  
+I am a Data Analyst with expertise in SQL, Python, R, and Power BI. I enjoy uncovering insights from data and building visualizations that drive decision-making.  
 
 # Skills & Tools  
 - Programming: Python (Pandas, NumPy, Matplotlib, Seaborn), R  
